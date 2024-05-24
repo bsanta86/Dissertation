@@ -21,13 +21,9 @@ Principal Investigator <br/>
 Email: bsanta86@csu.fullerton.edu <br/><br/>
 
 <b>I am aware of the possibility of encountering interpretations of my IAT test performance with which I may not agree. Knowing this, I wish to proceed. </b><br/><br/>
-<div>		
-	<div class="text-center proceed" style="margin: 30px auto 10px;">
-		<button pi-message-done type="button" class="btn btn-primary"
-				onClick: function () {
-                location.href("raceiat.js");
-               }>
-		
-			Start </button>
-	</div>
-</div>
+
+ <input type="button" value="Start" onclick="openUrl()"/>
+
+    function openUrl() {
+              window.location.href= "bsanta86.github.io/exampleiat.html"
+        }
