@@ -16,8 +16,8 @@ To learn more about the IAT please visit: https://implicit.harvard.edu/implicit/
 
 For any additional questions or concerns regarding your participation in this study, please contact: <br/><br/>
 
-Brandi Santa <br/><br/>
-Principal Investigator <br/><br/>
+Brandi Santa <br/>
+Principal Investigator <br/>
 Email: bsanta86@csu.fullerton.edu <br/><br/>
 
 <b>I am aware of the possibility of encountering interpretations of my IAT test performance with which I may not agree. Knowing this, I wish to proceed. </b><br/><br/>
