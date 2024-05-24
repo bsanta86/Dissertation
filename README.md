@@ -8,21 +8,20 @@
 
 <div class="panel-body">
 	<p class='lead'>
-		Prior to starting the professional learning course on disrupting bias, you will be asked to take an Implicit Association Test (IAT) on race. You may find it easier to pair certain attributes with one group of people compared to another. In addition, your results may depart from your personal beliefs.
+		Prior to starting the professional learning course on disrupting bias, you will be asked to take an Implicit Association Test (IAT) on race. You may find it easier to pair certain attributes with one group of people compared to another. In addition, your results may depart from your personal beliefs. <br/>
 
-Important Disclaimer: In reporting the results of the IAT test you take, possible interpretations will be provided. These results have a basis in research done (at the University of Washington, University of Virginia, Harvard University, and Yale University); however, these Universities make no claims about the validity of these suggested interpretations. If you are unprepared to encounter interpretations you might find objectionable, please do not proceed further. You may prefer to examine general information about the IAT before deciding whether or not to proceed.
+<b>Important Disclaimer</b>: In reporting the results of the IAT test you take, possible interpretations will be provided. These results have a basis in research done (at the University of Washington, University of Virginia, Harvard University, and Yale University); however, these Universities make no claims about the validity of these suggested interpretations. If you are unprepared to encounter interpretations you might find objectionable, please do not proceed further. You may prefer to examine general information about the IAT before deciding whether or not to proceed.<br/>
 
-To learn more about the IAT please visit: https://implicit.harvard.edu/implicit/iatdetails.html 
+To learn more about the IAT please visit: https://implicit.harvard.edu/implicit/iatdetails.html <br/>
 
-For any additional questions or concerns regarding your participation in this study, please contact:
+For any additional questions or concerns regarding your participation in this study, please contact: <br/>
 
-Brandi Santa
-Principal Investigator
-Email: bsanta86@csu.fullerton.edu
+Brandi Santa <br/>
+Principal Investigator <br/>
+Email: bsanta86@csu.fullerton.edu <br/>
 
-I am aware of the possibility of encountering interpretations of my IAT test performance with which I may not agree. Knowing this, I wish to proceed
-		
-	</p>
+<b>I am aware of the possibility of encountering interpretations of my IAT test performance with which I may not agree. Knowing this, I wish to proceed. </b><br/><br/>
+<div>		
 	<div class="text-center proceed" style="margin: 30px auto 10px;">
 		<button pi-message-done type="button" class="btn btn-primary">
 			Start
