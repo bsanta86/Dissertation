@@ -22,4 +22,4 @@ Email: bsanta86@csu.fullerton.edu <br/><br/>
 
 <b>I am aware of the possibility of encountering interpretations of my IAT test performance with which I may not agree. Knowing this, I wish to proceed. </b><br/><br/>
 
-<a href="exampleiat.html"><button>START</button></a>
+<a href="/workspaces/bsanta86.github.io/raceiat.js"><button>START</button></a>
